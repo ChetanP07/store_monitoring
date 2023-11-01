@@ -33,9 +33,7 @@ The Restaurant Monitoring System is designed to monitor and report on the operat
 1. **Clone the Repository**:
 
    ```sh
-   git clone https://github.com/yourusername/restaurant-monitoring.git
-   cd restaurant-monitoring
-
+   git clone https://github.com/ChetanP07/store_monitoring
 
 pip install flask psycopg2
 
