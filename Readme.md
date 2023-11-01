@@ -2,16 +2,6 @@
 
 The Restaurant Monitoring System is a backend application that helps restaurant owners track the online/offline status of their stores during business hours. This system generates reports containing information about uptime and downtime for specified time intervals.
 
-## Table of Contents
-- [System Overview](#system-overview)
-- [Features](#features)
-- [Setup](#setup)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Database Schema](#database-schema)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## System Overview
 
 The Restaurant Monitoring System is designed to monitor and report on the operational status of multiple restaurants. It consists of the following components:
